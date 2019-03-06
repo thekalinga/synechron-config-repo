@@ -1,7 +1,4 @@
 custom.property: 5678
 
 tunable:
-  sleepTimeInMillis: 10000
-
-server:
-  port: 18081
+  sleepTimeInMillis: 1000
