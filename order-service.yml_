@@ -1,4 +1,2 @@
-custom.property: 5678
-
 tunable:
   sleepTimeInMillis: 5000
